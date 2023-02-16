@@ -1,0 +1,5 @@
+a=int(input())
+o=oct(a)
+h=hex(a)
+print(o)
+print(h)
